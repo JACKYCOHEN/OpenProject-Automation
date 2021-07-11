@@ -1,2 +1,0 @@
-# OpenProject-Automation
-Automation Project
